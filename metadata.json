@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft Math Quest",
+  "description": "An adventure in learning where you customize your own Minecraft-style character and solve math problems to earn Minecoins. The app generates grade-appropriate quizzes and provides hints when needed. At the end, it helps generate an email for parents summarizing the student's performance.",
+  "requestFramePermissions": []
+}
